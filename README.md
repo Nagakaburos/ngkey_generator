@@ -31,10 +31,10 @@ Acesse a aplicação em:
 ## 🖼️ Screenshots
 
 ### Tela Principal
-![Tela Principal](./assets/main.png)
+![Tela Principal](./main.png)
 
 ### Área de Geração Manual
-![Geração Manual](./assets/manual.png)
+![Geração Manual](./manual.png)
 
 ### Geração Rápida
-![Geração Rápida](./assets/quick.png)
+![Geração Rápida](./quick.png)
